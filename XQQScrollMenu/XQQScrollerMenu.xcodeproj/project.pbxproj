@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		672AA37E1DAF182A00E6C4A2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA37D1DAF182A00E6C4A2 /* main.m */; };
+		672AA3811DAF182B00E6C4A2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3801DAF182B00E6C4A2 /* AppDelegate.m */; };
+		672AA3891DAF182B00E6C4A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 672AA3881DAF182B00E6C4A2 /* Assets.xcassets */; };
+		672AA3951DAF186000E6C4A2 /* mainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3941DAF186000E6C4A2 /* mainViewController.m */; };
+		672AA3C01DAF72A800E6C4A2 /* XQQScrollBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3BD1DAF72A800E6C4A2 /* XQQScrollBtn.m */; };
+		672AA3D61DAF730B00E6C4A2 /* XQQEightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3C31DAF730B00E6C4A2 /* XQQEightViewController.m */; };
+		672AA3D71DAF730B00E6C4A2 /* XQQFiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3C51DAF730B00E6C4A2 /* XQQFiveViewController.m */; };
+		672AA3D81DAF730B00E6C4A2 /* XQQFourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3C71DAF730B00E6C4A2 /* XQQFourViewController.m */; };
+		672AA3D91DAF730B00E6C4A2 /* XQQNineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3C91DAF730B00E6C4A2 /* XQQNineViewController.m */; };
+		672AA3DA1DAF730B00E6C4A2 /* XQQOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3CB1DAF730B00E6C4A2 /* XQQOneViewController.m */; };
+		672AA3DB1DAF730B00E6C4A2 /* XQQSevenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3CD1DAF730B00E6C4A2 /* XQQSevenViewController.m */; };
+		672AA3DC1DAF730B00E6C4A2 /* XQQSixViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3CF1DAF730B00E6C4A2 /* XQQSixViewController.m */; };
+		672AA3DD1DAF730B00E6C4A2 /* XQQTenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3D11DAF730B00E6C4A2 /* XQQTenViewController.m */; };
+		672AA3DE1DAF730B00E6C4A2 /* XQQThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3D31DAF730B00E6C4A2 /* XQQThreeViewController.m */; };
+		672AA3DF1DAF730B00E6C4A2 /* XQQTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3D51DAF730B00E6C4A2 /* XQQTwoViewController.m */; };
+		672AA3E21DAF745500E6C4A2 /* XQQScrollerMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 672AA3E11DAF745500E6C4A2 /* XQQScrollerMenuView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		672AA3791DAF182A00E6C4A2 /* XQQScrollerMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XQQScrollerMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		672AA37D1DAF182A00E6C4A2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		672AA37F1DAF182B00E6C4A2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		672AA3801DAF182B00E6C4A2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		672AA3881DAF182B00E6C4A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		672AA38D1DAF182B00E6C4A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		672AA3931DAF186000E6C4A2 /* mainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainViewController.h; sourceTree = "<group>"; };
+		672AA3941DAF186000E6C4A2 /* mainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mainViewController.m; sourceTree = "<group>"; };
+		672AA3BC1DAF72A800E6C4A2 /* XQQScrollBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQScrollBtn.h; path = XQQScrollerMenuView/XQQScrollBtn.h; sourceTree = "<group>"; };
+		672AA3BD1DAF72A800E6C4A2 /* XQQScrollBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQScrollBtn.m; path = XQQScrollerMenuView/XQQScrollBtn.m; sourceTree = "<group>"; };
+		672AA3BE1DAF72A800E6C4A2 /* XQQScrollerMenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQScrollerMenuView.h; path = XQQScrollerMenuView/XQQScrollerMenuView.h; sourceTree = "<group>"; };
+		672AA3C21DAF730B00E6C4A2 /* XQQEightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQEightViewController.h; path = controllers/XQQEightViewController.h; sourceTree = "<group>"; };
+		672AA3C31DAF730B00E6C4A2 /* XQQEightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQEightViewController.m; path = controllers/XQQEightViewController.m; sourceTree = "<group>"; };
+		672AA3C41DAF730B00E6C4A2 /* XQQFiveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQFiveViewController.h; path = controllers/XQQFiveViewController.h; sourceTree = "<group>"; };
+		672AA3C51DAF730B00E6C4A2 /* XQQFiveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQFiveViewController.m; path = controllers/XQQFiveViewController.m; sourceTree = "<group>"; };
+		672AA3C61DAF730B00E6C4A2 /* XQQFourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQFourViewController.h; path = controllers/XQQFourViewController.h; sourceTree = "<group>"; };
+		672AA3C71DAF730B00E6C4A2 /* XQQFourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQFourViewController.m; path = controllers/XQQFourViewController.m; sourceTree = "<group>"; };
+		672AA3C81DAF730B00E6C4A2 /* XQQNineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQNineViewController.h; path = controllers/XQQNineViewController.h; sourceTree = "<group>"; };
+		672AA3C91DAF730B00E6C4A2 /* XQQNineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQNineViewController.m; path = controllers/XQQNineViewController.m; sourceTree = "<group>"; };
+		672AA3CA1DAF730B00E6C4A2 /* XQQOneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQOneViewController.h; path = controllers/XQQOneViewController.h; sourceTree = "<group>"; };
+		672AA3CB1DAF730B00E6C4A2 /* XQQOneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQOneViewController.m; path = controllers/XQQOneViewController.m; sourceTree = "<group>"; };
+		672AA3CC1DAF730B00E6C4A2 /* XQQSevenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQSevenViewController.h; path = controllers/XQQSevenViewController.h; sourceTree = "<group>"; };
+		672AA3CD1DAF730B00E6C4A2 /* XQQSevenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQSevenViewController.m; path = controllers/XQQSevenViewController.m; sourceTree = "<group>"; };
+		672AA3CE1DAF730B00E6C4A2 /* XQQSixViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQSixViewController.h; path = controllers/XQQSixViewController.h; sourceTree = "<group>"; };
+		672AA3CF1DAF730B00E6C4A2 /* XQQSixViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQSixViewController.m; path = controllers/XQQSixViewController.m; sourceTree = "<group>"; };
+		672AA3D01DAF730B00E6C4A2 /* XQQTenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQTenViewController.h; path = controllers/XQQTenViewController.h; sourceTree = "<group>"; };
+		672AA3D11DAF730B00E6C4A2 /* XQQTenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQTenViewController.m; path = controllers/XQQTenViewController.m; sourceTree = "<group>"; };
+		672AA3D21DAF730B00E6C4A2 /* XQQThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQThreeViewController.h; path = controllers/XQQThreeViewController.h; sourceTree = "<group>"; };
+		672AA3D31DAF730B00E6C4A2 /* XQQThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQThreeViewController.m; path = controllers/XQQThreeViewController.m; sourceTree = "<group>"; };
+		672AA3D41DAF730B00E6C4A2 /* XQQTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XQQTwoViewController.h; path = controllers/XQQTwoViewController.h; sourceTree = "<group>"; };
+		672AA3D51DAF730B00E6C4A2 /* XQQTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQTwoViewController.m; path = controllers/XQQTwoViewController.m; sourceTree = "<group>"; };
+		672AA3E11DAF745500E6C4A2 /* XQQScrollerMenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XQQScrollerMenuView.m; path = XQQScrollerMenuView/XQQScrollerMenuView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		672AA3761DAF182A00E6C4A2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		672AA3701DAF182A00E6C4A2 = {
+			isa = PBXGroup;
+			children = (
+				672AA37B1DAF182A00E6C4A2 /* XQQScrollerMenu */,
+				672AA37A1DAF182A00E6C4A2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		672AA37A1DAF182A00E6C4A2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				672AA3791DAF182A00E6C4A2 /* XQQScrollerMenu.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		672AA37B1DAF182A00E6C4A2 /* XQQScrollerMenu */ = {
+			isa = PBXGroup;
+			children = (
+				672AA39D1DAF346500E6C4A2 /* controllers */,
+				672AA3961DAF18BE00E6C4A2 /* XQQScrollMenuView */,
+				672AA37F1DAF182B00E6C4A2 /* AppDelegate.h */,
+				672AA3801DAF182B00E6C4A2 /* AppDelegate.m */,
+				672AA3931DAF186000E6C4A2 /* mainViewController.h */,
+				672AA3941DAF186000E6C4A2 /* mainViewController.m */,
+				672AA37C1DAF182A00E6C4A2 /* Supporting Files */,
+			);
+			path = XQQScrollerMenu;
+			sourceTree = "<group>";
+		};
+		672AA37C1DAF182A00E6C4A2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				672AA3881DAF182B00E6C4A2 /* Assets.xcassets */,
+				672AA38D1DAF182B00E6C4A2 /* Info.plist */,
+				672AA37D1DAF182A00E6C4A2 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		672AA3961DAF18BE00E6C4A2 /* XQQScrollMenuView */ = {
+			isa = PBXGroup;
+			children = (
+				672AA3BC1DAF72A800E6C4A2 /* XQQScrollBtn.h */,
+				672AA3BD1DAF72A800E6C4A2 /* XQQScrollBtn.m */,
+				672AA3BE1DAF72A800E6C4A2 /* XQQScrollerMenuView.h */,
+				672AA3E11DAF745500E6C4A2 /* XQQScrollerMenuView.m */,
+			);
+			name = XQQScrollMenuView;
+			sourceTree = "<group>";
+		};
+		672AA39D1DAF346500E6C4A2 /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				672AA3C21DAF730B00E6C4A2 /* XQQEightViewController.h */,
+				672AA3C31DAF730B00E6C4A2 /* XQQEightViewController.m */,
+				672AA3C41DAF730B00E6C4A2 /* XQQFiveViewController.h */,
+				672AA3C51DAF730B00E6C4A2 /* XQQFiveViewController.m */,
+				672AA3C61DAF730B00E6C4A2 /* XQQFourViewController.h */,
+				672AA3C71DAF730B00E6C4A2 /* XQQFourViewController.m */,
+				672AA3C81DAF730B00E6C4A2 /* XQQNineViewController.h */,
+				672AA3C91DAF730B00E6C4A2 /* XQQNineViewController.m */,
+				672AA3CA1DAF730B00E6C4A2 /* XQQOneViewController.h */,
+				672AA3CB1DAF730B00E6C4A2 /* XQQOneViewController.m */,
+				672AA3CC1DAF730B00E6C4A2 /* XQQSevenViewController.h */,
+				672AA3CD1DAF730B00E6C4A2 /* XQQSevenViewController.m */,
+				672AA3CE1DAF730B00E6C4A2 /* XQQSixViewController.h */,
+				672AA3CF1DAF730B00E6C4A2 /* XQQSixViewController.m */,
+				672AA3D01DAF730B00E6C4A2 /* XQQTenViewController.h */,
+				672AA3D11DAF730B00E6C4A2 /* XQQTenViewController.m */,
+				672AA3D21DAF730B00E6C4A2 /* XQQThreeViewController.h */,
+				672AA3D31DAF730B00E6C4A2 /* XQQThreeViewController.m */,
+				672AA3D41DAF730B00E6C4A2 /* XQQTwoViewController.h */,
+				672AA3D51DAF730B00E6C4A2 /* XQQTwoViewController.m */,
+			);
+			name = controllers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		672AA3781DAF182A00E6C4A2 /* XQQScrollerMenu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 672AA3901DAF182B00E6C4A2 /* Build configuration list for PBXNativeTarget "XQQScrollerMenu" */;
+			buildPhases = (
+				672AA3751DAF182A00E6C4A2 /* Sources */,
+				672AA3761DAF182A00E6C4A2 /* Frameworks */,
+				672AA3771DAF182A00E6C4A2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = XQQScrollerMenu;
+			productName = XQQScrollerMenu;
+			productReference = 672AA3791DAF182A00E6C4A2 /* XQQScrollerMenu.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		672AA3711DAF182A00E6C4A2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = XQQ;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = UIP;
+				TargetAttributes = {
+					672AA3781DAF182A00E6C4A2 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = DXV95ACF77;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 672AA3741DAF182A00E6C4A2 /* Build configuration list for PBXProject "XQQScrollerMenu" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 672AA3701DAF182A00E6C4A2;
+			productRefGroup = 672AA37A1DAF182A00E6C4A2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				672AA3781DAF182A00E6C4A2 /* XQQScrollerMenu */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		672AA3771DAF182A00E6C4A2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				672AA3891DAF182B00E6C4A2 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		672AA3751DAF182A00E6C4A2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				672AA3DA1DAF730B00E6C4A2 /* XQQOneViewController.m in Sources */,
+				672AA3DD1DAF730B00E6C4A2 /* XQQTenViewController.m in Sources */,
+				672AA3C01DAF72A800E6C4A2 /* XQQScrollBtn.m in Sources */,
+				672AA3D71DAF730B00E6C4A2 /* XQQFiveViewController.m in Sources */,
+				672AA3E21DAF745500E6C4A2 /* XQQScrollerMenuView.m in Sources */,
+				672AA3951DAF186000E6C4A2 /* mainViewController.m in Sources */,
+				672AA3DB1DAF730B00E6C4A2 /* XQQSevenViewController.m in Sources */,
+				672AA3811DAF182B00E6C4A2 /* AppDelegate.m in Sources */,
+				672AA37E1DAF182A00E6C4A2 /* main.m in Sources */,
+				672AA3D61DAF730B00E6C4A2 /* XQQEightViewController.m in Sources */,
+				672AA3D81DAF730B00E6C4A2 /* XQQFourViewController.m in Sources */,
+				672AA3DC1DAF730B00E6C4A2 /* XQQSixViewController.m in Sources */,
+				672AA3DF1DAF730B00E6C4A2 /* XQQTwoViewController.m in Sources */,
+				672AA3DE1DAF730B00E6C4A2 /* XQQThreeViewController.m in Sources */,
+				672AA3D91DAF730B00E6C4A2 /* XQQNineViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		672AA38E1DAF182B00E6C4A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		672AA38F1DAF182B00E6C4A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		672AA3911DAF182B00E6C4A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DXV95ACF77;
+				INFOPLIST_FILE = XQQScrollerMenu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = UIP.XQQScrollerMenu;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		672AA3921DAF182B00E6C4A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DXV95ACF77;
+				INFOPLIST_FILE = XQQScrollerMenu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = UIP.XQQScrollerMenu;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		672AA3741DAF182A00E6C4A2 /* Build configuration list for PBXProject "XQQScrollerMenu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				672AA38E1DAF182B00E6C4A2 /* Debug */,
+				672AA38F1DAF182B00E6C4A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		672AA3901DAF182B00E6C4A2 /* Build configuration list for PBXNativeTarget "XQQScrollerMenu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				672AA3911DAF182B00E6C4A2 /* Debug */,
+				672AA3921DAF182B00E6C4A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 672AA3711DAF182A00E6C4A2 /* Project object */;
+}
